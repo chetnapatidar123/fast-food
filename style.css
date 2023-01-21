@@ -411,7 +411,7 @@ html,body{
 .dot h1{
      font-size: 18vmax;
      line-height: 4vmax;
-     margin-left: 16vmax;
+     margin-left: 13vmax;
      color:  yellow;
 
 }
@@ -468,7 +468,7 @@ html,body{
 .page2 .center h1{
 font-size: 3vmax;
 margin-left: 0vmax;
-margin-top: 5vmax;
+margin-top: 1vmax;
 /* background-color: red; */
 text-align: center;
 }
